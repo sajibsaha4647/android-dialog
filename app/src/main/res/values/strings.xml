@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidalog</string>
+    <string name="app_title">are you sure</string>
+    <string name="app_message">do you wants this</string>
+</resources>
